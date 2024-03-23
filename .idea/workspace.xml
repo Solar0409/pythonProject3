@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98ef7a9b-4133-4bef-9c5d-4142a4384fa0" name="Changes" comment="SpearSound_add">
-      <change afterPath="$PROJECT_DIR$/Eva/SpearSound.ogg" afterDir="false" />
-    </list>
+    <list default="true" id="98ef7a9b-4133-4bef-9c5d-4142a4384fa0" name="Changes" comment="SpearSound_add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711205252670</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="SpearSound_add">
+      <option name="closed" value="true" />
+      <created>1711205367105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711205367105</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
