@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98ef7a9b-4133-4bef-9c5d-4142a4384fa0" name="Changes" comment="SpearSound_add" />
+    <list default="true" id="98ef7a9b-4133-4bef-9c5d-4142a4384fa0" name="Changes" comment="bullet_add">
+      <change afterPath="$PROJECT_DIR$/Eva/bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eva/video-1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eva/video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eva/boss.py" beforeDir="false" afterPath="$PROJECT_DIR$/Eva/boss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eva/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Eva/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +195,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711205367105</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="SpearSound_add">
+      <option name="closed" value="true" />
+      <created>1711205974410</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711205974410</updated>
+    </task>
+    <task id="LOCAL-00009" summary="bullet_add">
+      <option name="closed" value="true" />
+      <created>1711206214742</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711206214742</updated>
+    </task>
+    <task id="LOCAL-00010" summary="bullet_add">
+      <option name="closed" value="true" />
+      <created>1711206226642</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711206226642</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +239,8 @@
     <MESSAGE value="19.03.2024" />
     <MESSAGE value="23.03.2024" />
     <MESSAGE value="SpearSound_add" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpearSound_add" />
+    <MESSAGE value="bullet_add" />
+    <option name="LAST_COMMIT_MESSAGE" value="bullet_add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
