@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98ef7a9b-4133-4bef-9c5d-4142a4384fa0" name="Changes" comment="bullet_add">
-      <change afterPath="$PROJECT_DIR$/04-Cruel-Angel_s-Thesis.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-Angel-Attack.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-EVA-00.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-The-Beast.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BG-Level-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BG-level-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BG_levels_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boss-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boss-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boss-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Icon-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Player-sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpearSound.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sprite-player-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Start-game-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boss_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fireball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meteo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video-1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eva" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="98ef7a9b-4133-4bef-9c5d-4142a4384fa0" name="Changes" comment="Evangelion" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711206226642</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Evangelion">
+      <option name="closed" value="true" />
+      <created>1711208615366</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711208615366</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,7 +241,8 @@
     <MESSAGE value="23.03.2024" />
     <MESSAGE value="SpearSound_add" />
     <MESSAGE value="bullet_add" />
-    <option name="LAST_COMMIT_MESSAGE" value="bullet_add" />
+    <MESSAGE value="Evangelion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Evangelion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
