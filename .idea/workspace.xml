@@ -5,12 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98ef7a9b-4133-4bef-9c5d-4142a4384fa0" name="Changes" comment="bullet_add">
-      <change afterPath="$PROJECT_DIR$/Eva/bullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eva/video-1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eva/video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Cruel-Angel_s-Thesis.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Angel-Attack.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-EVA-00.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-The-Beast.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BG-Level-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BG-level-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BG_levels_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boss-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boss-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boss-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Player-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpearSound.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprite-player-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start-game-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fireball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meteo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eva/boss.py" beforeDir="false" afterPath="$PROJECT_DIR$/Eva/boss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eva/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Eva/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eva" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +50,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Eva" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -38,7 +63,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="7d14e90f-b2be-4eb6-9a31-25fb67b25ab6" />
-        <option name="url" value="https://github.com/schikita/Eva.git" />
+        <option name="url" value="https://github.com/Solar0409/pythonProject3.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -247,7 +272,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
+          <line>81</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
