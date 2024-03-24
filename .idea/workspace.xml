@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98ef7a9b-4133-4bef-9c5d-4142a4384fa0" name="Changes" comment="16.03.2024" />
+    <list default="true" id="98ef7a9b-4133-4bef-9c5d-4142a4384fa0" name="Changes" comment="Evangelion">
+      <change afterPath="$PROJECT_DIR$/04-Cruel-Angel_s-Thesis.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-Angel-Attack.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-EVA-00.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-The-Beast.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BG-Level-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BG-level-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BG_levels_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boss-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boss-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boss-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Player-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpearSound.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprite-player-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start-game-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vid.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fireball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meteo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video-1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eva" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +51,34 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Eva" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Solar0409&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7d14e90f-b2be-4eb6-9a31-25fb67b25ab6" />
+        <option name="url" value="https://github.com/Solar0409/pythonProject3.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dmO4RUyAWv5EO8KWvsfJWGFq37" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -32,16 +87,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.boss_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Evangelion&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Саша\PycharmProjects\pythonProject3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Eva" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Eva/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject3" />
       <option name="ENV_FILES" value="" />
@@ -64,6 +149,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -89,20 +179,151 @@
       <option name="project" value="LOCAL" />
       <updated>1710611462763</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="16.03.2024">
+      <option name="closed" value="true" />
+      <created>1710612066610</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710612066610</updated>
+    </task>
+    <task id="LOCAL-00003" summary="19.03.2024">
+      <option name="closed" value="true" />
+      <created>1710864946738</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710864946738</updated>
+    </task>
+    <task id="LOCAL-00004" summary="19.03.2024">
+      <option name="closed" value="true" />
+      <created>1710870167422</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710870167422</updated>
+    </task>
+    <task id="LOCAL-00005" summary="23.03.2024">
+      <option name="closed" value="true" />
+      <created>1711181045076</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711181045076</updated>
+    </task>
+    <task id="LOCAL-00006" summary="SpearSound_add">
+      <option name="closed" value="true" />
+      <created>1711205252670</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711205252670</updated>
+    </task>
+    <task id="LOCAL-00007" summary="SpearSound_add">
+      <option name="closed" value="true" />
+      <created>1711205367105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711205367105</updated>
+    </task>
+    <task id="LOCAL-00008" summary="SpearSound_add">
+      <option name="closed" value="true" />
+      <created>1711205974410</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711205974410</updated>
+    </task>
+    <task id="LOCAL-00009" summary="bullet_add">
+      <option name="closed" value="true" />
+      <created>1711206214742</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711206214742</updated>
+    </task>
+    <task id="LOCAL-00010" summary="bullet_add">
+      <option name="closed" value="true" />
+      <created>1711206226642</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711206226642</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Evangelion">
+      <option name="closed" value="true" />
+      <created>1711208615366</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711208615366</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Evangelion">
+      <option name="closed" value="true" />
+      <created>1711208710468</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711208710468</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="16.03.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="16.03.2024" />
+    <MESSAGE value="19.03.2024" />
+    <MESSAGE value="23.03.2024" />
+    <MESSAGE value="SpearSound_add" />
+    <MESSAGE value="bullet_add" />
+    <MESSAGE value="Evangelion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Evangelion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
+          <line>311</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
