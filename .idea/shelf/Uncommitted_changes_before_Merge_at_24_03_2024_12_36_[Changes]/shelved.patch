@@ -1,0 +1,701 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"98ef7a9b-4133-4bef-9c5d-4142a4384fa0\" name=\"Changes\" comment=\"16.03.2024\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/Eva\" />\r\n    <option name=\"ROOT_SYNC\" value=\"SYNC\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 0\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2dmO4RUyAWv5EO8KWvsfJWGFq37\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\r\n    \"Python.main.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"pythonProject3\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"98ef7a9b-4133-4bef-9c5d-4142a4384fa0\" name=\"Changes\" comment=\"\" />\r\n      <created>1710609595276</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1710609595276</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"16.03.2024\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1710611462763</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1710611462763</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"16.03.2024\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"16.03.2024\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/main.py</url>\r\n          <line>8</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1cf8253786fcedf5a95c3aa304ea95bd7547de06)
++++ b/.idea/workspace.xml	(date 1711272974474)
+@@ -4,7 +4,40 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="98ef7a9b-4133-4bef-9c5d-4142a4384fa0" name="Changes" comment="16.03.2024" />
++    <list default="true" id="98ef7a9b-4133-4bef-9c5d-4142a4384fa0" name="Changes" comment="Evangelion">
++      <change afterPath="$PROJECT_DIR$/04-Cruel-Angel_s-Thesis.ogg" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/08-Angel-Attack.ogg" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/12-EVA-00.ogg" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/23-The-Beast.ogg" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/BG-Level-1.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/BG-level-3.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/BG_levels_2.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Boss-1.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Boss-2.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Boss-3.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Icon-1.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Player-sprite.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/SpearSound.ogg" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Sprite-player-1.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Start-game-1.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Vid.mp4" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/boss.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/boss_2.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/boss_3.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/bullet.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/car.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/fireball.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/meteo.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/spear.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/spear.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/video-1.mp4" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/video.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Eva" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -18,12 +51,34 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Eva" />
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="ROOT_SYNC" value="SYNC" />
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 0
+-}]]></component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;Solar0409&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="7d14e90f-b2be-4eb6-9a31-25fb67b25ab6" />
++        <option name="url" value="https://github.com/Solar0409/pythonProject3.git" />
++      </UrlAndAccount>
++    </option>
++  </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
++  </component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 0
++}</component>
+   <component name="ProjectId" id="2dmO4RUyAWv5EO8KWvsfJWGFq37" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+     <ConfirmationsSetting value="2" id="Add" />
+@@ -35,13 +90,43 @@
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+     "ASKED_ADD_EXTERNAL_FILES": "true",
++    "Python.boss_2.executor": "Run",
++    "Python.main (1).executor": "Run",
+     "Python.main.executor": "Run",
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master"
++    "git-widget-placeholder": "Evangelion",
++    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+   }
+ }]]></component>
+-  <component name="RunManager">
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\Саша\PycharmProjects\pythonProject3" />
++    </key>
++  </component>
++  <component name="RunManager" selected="Python.main (1)">
++    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++      <module name="pythonProject3" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <envs>
++        <env name="PYTHONUNBUFFERED" value="1" />
++      </envs>
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Eva" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Eva/main.py" />
++      <option name="PARAMETERS" value="" />
++      <option name="SHOW_COMMAND_LINE" value="false" />
++      <option name="EMULATE_TERMINAL" value="false" />
++      <option name="MODULE_MODE" value="false" />
++      <option name="REDIRECT_INPUT" value="false" />
++      <option name="INPUT_FILE" value="" />
++      <method v="2" />
++    </configuration>
+     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+       <module name="pythonProject3" />
+       <option name="ENV_FILES" value="" />
+@@ -64,6 +149,11 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Python.main (1)" />
++      </list>
++    </recent_temporary>
+   </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+@@ -89,20 +179,151 @@
+       <option name="project" value="LOCAL" />
+       <updated>1710611462763</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="16.03.2024">
++      <option name="closed" value="true" />
++      <created>1710612066610</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1710612066610</updated>
++    </task>
++    <task id="LOCAL-00003" summary="19.03.2024">
++      <option name="closed" value="true" />
++      <created>1710864946738</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1710864946738</updated>
++    </task>
++    <task id="LOCAL-00004" summary="19.03.2024">
++      <option name="closed" value="true" />
++      <created>1710870167422</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1710870167422</updated>
++    </task>
++    <task id="LOCAL-00005" summary="23.03.2024">
++      <option name="closed" value="true" />
++      <created>1711181045076</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1711181045076</updated>
++    </task>
++    <task id="LOCAL-00006" summary="SpearSound_add">
++      <option name="closed" value="true" />
++      <created>1711205252670</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1711205252670</updated>
++    </task>
++    <task id="LOCAL-00007" summary="SpearSound_add">
++      <option name="closed" value="true" />
++      <created>1711205367105</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1711205367105</updated>
++    </task>
++    <task id="LOCAL-00008" summary="SpearSound_add">
++      <option name="closed" value="true" />
++      <created>1711205974410</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1711205974410</updated>
++    </task>
++    <task id="LOCAL-00009" summary="bullet_add">
++      <option name="closed" value="true" />
++      <created>1711206214742</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1711206214742</updated>
++    </task>
++    <task id="LOCAL-00010" summary="bullet_add">
++      <option name="closed" value="true" />
++      <created>1711206226642</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1711206226642</updated>
++    </task>
++    <task id="LOCAL-00011" summary="Evangelion">
++      <option name="closed" value="true" />
++      <created>1711208615366</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1711208615366</updated>
++    </task>
++    <task id="LOCAL-00012" summary="Evangelion">
++      <option name="closed" value="true" />
++      <created>1711208710468</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1711208710468</updated>
++    </task>
++    <option name="localTasksCounter" value="13" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="RECENT_FILTERS">
++      <map>
++        <entry key="Branch">
++          <value>
++            <list>
++              <RecentGroup>
++                <option name="FILTER_VALUES">
++                  <option value="master" />
++                </option>
++              </RecentGroup>
++            </list>
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="master" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+     <MESSAGE value="16.03.2024" />
+-    <option name="LAST_COMMIT_MESSAGE" value="16.03.2024" />
++    <MESSAGE value="19.03.2024" />
++    <MESSAGE value="23.03.2024" />
++    <MESSAGE value="SpearSound_add" />
++    <MESSAGE value="bullet_add" />
++    <MESSAGE value="Evangelion" />
++    <option name="LAST_COMMIT_MESSAGE" value="Evangelion" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+       <breakpoints>
+         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+           <url>file://$PROJECT_DIR$/main.py</url>
+-          <line>8</line>
++          <line>311</line>
+           <option name="timeStamp" value="1" />
+         </line-breakpoint>
+       </breakpoints>
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># This is a sample Python script.\r\n\r\n# Press Shift+F10 to execute it or replace it with your code.\r\n# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.\r\n\r\n\r\ndef print_hi(name):\r\n    # Use a breakpoint in the code line below to debug your script.\r\n    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.\r\n\r\n\r\n# Press the green button in the gutter to run the script.\r\nif __name__ == '__main__':\r\n    print_hi('PyCharm')\r\n\r\n# See PyCharm help at https://www.jetbrains.com/help/pycharm/\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/main.py b/main.py
+--- a/main.py	(revision 1cf8253786fcedf5a95c3aa304ea95bd7547de06)
++++ b/main.py	(date 1711272974475)
+@@ -1,16 +1,376 @@
+-# This is a sample Python script.
++import pygame
++import sys
++from video import Video
++from player import Player
++from spear import Spear
++from boss import Boss
++from boss_2 import BossTwo
++from boss_3 import BossThree
++from fireball import Fireball
++
++# Инициализация Pygame
++pygame.init()
++
++# Основные настройки экрана
++screen_width, screen_height = 1000, 800
++screen = pygame.display.set_mode((screen_width, screen_height))
++pygame.display.set_caption("Evangelion")
++
++# Инициализация групп спрайтов
++all_sprites = pygame.sprite.Group()
++spears = pygame.sprite.Group()
++
++# Загрузка изображения листа спрайтов и создание игрока
++player_image_sheet = pygame.image.load('Sprite-player-1.png')
++player = Player(player_image_sheet, (100, 100), all_sprites, spears, screen_height)
++
++# Загрузка видео для интро
++intro_video_path = 'video-1.mp4'  # Укажите здесь правильный путь к вашему видеофайлу
++intro_video = Video(intro_video_path)
++intro_video.set_size((1000, 800))
++
++
++def intro():
++    pygame.mixer.music.stop()  # Останавливаем музыку перед началом интро
++    intro_video.set_volume(1)
++    intro_video.restart()  # Перезапуск видео с начала
++    intro_video.resume()  # Возобновляем воспроизведение видео, на случай если оно было остановлено
++
++    while intro_video.active:  # Пока видео активно
++        intro_video.draw(screen, (0, 0))  # Отрисовка кадра видео
++        pygame.display.update()  # Обновление экрана для отображения кадра
++        for event in pygame.event.get():
++            if event.type == pygame.QUIT:
++                pygame.quit()
++                sys.exit()
++            elif event.type == pygame.KEYDOWN:
++                if event.key == pygame.K_ESCAPE:
++                    intro_video.close()  # Закрываем видео
++                    return  # Выход из функции, возвращение в главное меню
++        pygame.time.wait(int(intro_video.frame_delay * 1000))  # Задержка для синхронизации с частотой кадров
++
++    # pygame.mixer.music.play(-1)  # Воспроизведение музыки снова после окончания видео
++
++
++all_sprites.add(player)
++
++fireballs = pygame.sprite.Group()
++
++# Загрузка спрайтового листа босса
++boss_image_sheet = pygame.image.load('Boss-1.png').convert_alpha()
++boss_position = (screen_width - 300, screen_height - 260)  # Учитывая, что размер спрайта босса - 250x250
++
++# Создание экземпляра босса
++boss = Boss(screen, boss_image_sheet, boss_position, all_sprites, fireballs)
++boss_two = BossTwo(screen, boss_image_sheet, boss_position, all_sprites, fireballs)
++boss_three = BossTwo(screen, boss_image_sheet, boss_position, all_sprites, fireballs)
++
++# Добавление босса в группу всех спрайтов
++all_sprites.add(boss)
++
++# Иконка игры
++programIcon = pygame.image.load('Icon-1.png')
++pygame.display.set_icon(programIcon)
++
++# Фон и музыка для первоначального меню
++menu_background_image = pygame.image.load('Start-game-1.png')
++pygame.mixer.music.load('04-Cruel-Angel_s-Thesis.ogg')
++pygame.mixer.music.play(-1)
++
++# Цвета
++WHITE = (255, 255, 255)
++BLACK = (0, 0, 0)
++
++# Шрифты
++pygame.font.init()  # Необходимо для работы с шрифтами в pygame
++font = pygame.font.Font(None, 36)
++
++# Переменные состояния игры
++current_screen = "menu"
++selected_option = 0
++pause_selected_option = 0
++in_game = False
++pause_options = ["Continue", "Mute", "Exit"]
++menu_options = ["Level 1", "Level 2", "Level 3", "Intro", "Mute", "Exit"]
++music_muted = False
++
++# Фоновые изображения и музыка для каждого уровня
++backgrounds = {
++    "Level 1": "BG-Level-1.png",
++    "Level 2": "BG_levels_2.png",
++    "Level 3": "BG-level-3.png",
++}
++music_files = {
++    "Level 1": "08-Angel-Attack.ogg",
++    "Level 2": "12-EVA-00.ogg",
++    "Level 3": "23-The-Beast.ogg",
++}
++current_background = None
++current_music = None
++
++level_1_completed = False
++level_2_completed = False
++level_3_completed = False
++
++
++def toggle_music():
++    global music_muted
++    music_muted = not music_muted
++    if music_muted:
++        pygame.mixer.music.pause()
++    else:
++        pygame.mixer.music.unpause()
++
++
++def load_level(level):
++    global current_background, current_music, in_game, boss, boss_two, boss_three
++    current_background = pygame.image.load(backgrounds[level])
++    current_music = music_files[level]
++    pygame.mixer.music.load(current_music)
++    pygame.mixer.music.play(-1)
++    in_game = True
++
++    # Сброс предыдущего состояния уровня
++    if boss:
++        boss.kill()
++        boss = None
++    if boss_two:  # Добавлено условие для второго босса
++        boss_two.kill()
++        boss_two = None
++    if boss_three:
++        boss_three.kill()
++        boss_three = None
++
++    if level == "Level 1":
++        boss = Boss(screen, boss_image_sheet, boss_position, all_sprites, fireballs)
++        all_sprites.add(boss)
++    elif level == "Level 2":
++        boss_two_image_sheet = pygame.image.load('Boss-2.png').convert_alpha()  # Убедитесь, что у вас есть 'Boss-2.png'
++        boss_two_position = (screen_width - 300, screen_height - 260)
++        boss_two = BossTwo(screen, boss_two_image_sheet, boss_two_position, all_sprites, fireballs)
++        all_sprites.add(boss_two)
++    elif level == "Level 3":
++        boss_three_image_sheet = pygame.image.load(
++            'Boss-3.png').convert_alpha()  # Убедитесь, что у вас есть 'Boss-2.png'
++        boss_three_position = (screen_width - 300, screen_height - 260)
++        boss_three = BossThree(screen, boss_three_image_sheet, boss_three_position, all_sprites, fireballs)
++        all_sprites.add(boss_three)
++
++    else:
++        # Удаляем босса из всех групп спрайтов, если это не первый уровень
++        if boss:
++            boss.kill()
++            boss = None  # Сброс boss в None после удаления
++            boss_two = None
++            boss_three = None
++
++
++# Аналогично для других уровней...
++
++
++def draw_level():
++    screen.blit(current_background, (0, 0))
++
++
++def process_menu_selection(option):
++    global current_screen, in_game, running
++    if option in ["Level 1", "Level 2", "Level 3"]:
++        load_level(option)
++        current_screen = option
++        in_game = True
++    elif option == "Intro":
++        intro_video.restart()
++        intro_video.set_volume(1)
++        intro()
++    elif option == "Mute":
++        toggle_music()
++    elif option == "Exit":
++        running = False
++        pygame.quit()
++        sys.exit()
++
++
++def process_pause_selection(option):
++    global current_screen, in_game, running
++    if option == "Continue":
++        current_screen = "game"
++        in_game = True
++    elif option == "Mute":
++        toggle_music()
++    elif option == "Exit":
++        current_screen = "menu"
++        in_game = False
++        pygame.mixer.music.stop()
++        pygame.mixer.music.load('04-Cruel-Angel_s-Thesis.ogg')
++        pygame.mixer.music.play(-1)
++
++
++def draw_menu(options, selected):
++    screen.blit(menu_background_image, (0, 0))
++    menu_x = screen_width * 3 / 4
++    for i, option in enumerate(options):
++        if i == 0 and level_1_completed:  # Если это первый уровень и он завершен
++            color = (100, 100, 100)  # Серый цвет для неактивного пункта
++        else:
++            color = WHITE if i == selected else (100, 100, 100)
++        text = font.render(option, True, color)
++        screen.blit(text, (menu_x - text.get_width() / 2, 150 + 50 * i))
++
++
++def main(font):
++    global current_screen, selected_option, pause_selected_option, in_game, music_muted, boss
++
++    running = True
++    level_complete = False  # Флаг завершения уровня
++
++    while running:
++        for event in pygame.event.get():
++            if event.type == pygame.QUIT:
++                running = False
++            elif event.type == pygame.KEYDOWN:
++                if event.key == pygame.K_ESCAPE and in_game:
++                    current_screen = "pause"
++                    continue
++
++                if current_screen == "menu":
++                    if event.key == pygame.K_DOWN:
++                        selected_option = (selected_option + 1) % len(menu_options)
++                    elif event.key == pygame.K_UP:
++                        selected_option = (selected_option - 1) % len(menu_options)
++                    elif event.key == pygame.K_RETURN:
++                        process_menu_selection(menu_options[selected_option])
++
++                elif current_screen == "pause":
++                    if event.key == pygame.K_DOWN:
++                        pause_selected_option = (pause_selected_option + 1) % len(pause_options)
++                    elif event.key == pygame.K_UP:
++                        pause_selected_option = (pause_selected_option - 1) % len(pause_options)
++                    elif event.key == pygame.K_RETURN:
++                        process_pause_selection(pause_options[pause_selected_option])
++
++                elif current_screen == "level 2" and boss_two and boss_two.alive():
++                    boss_two_health_text = font.render(f"Boss 2 Health: {boss_two.health}", True, WHITE)
++                    screen.blit(boss_two_health_text, (10, 50))
++                elif current_screen == "level 3" and boss_three and boss_three.alive():
++                    boss_three_health_text = font.render(f"Boss 3 Health: {boss_three.health}", True, WHITE)
++                    screen.blit(boss_three_health_text, (10, 50))
++
++        keys = pygame.key.get_pressed()
++        screen.fill(BLACK)
++
++        if current_screen == "menu":
++            draw_menu(menu_options, selected_option)
++        elif current_screen == "pause":
++            draw_menu(pause_options, pause_selected_option)
++        elif current_screen == "intro":
++            intro()
++        elif in_game:
++            draw_level()
++            player.update(keys)  # Обновление игрока с передачей клавиш
++
++            player_health_text = font.render(f"Player Health: {player.health}", True, (255, 255, 255))
++            screen.blit(player_health_text, (10, 10))  # Размещение в левом верхнем углу
++
++            # Отрисовка индикации жизней босса, если босс существует и жив
++            if boss and boss.alive():
++                boss_health_text = font.render(f"Boss Health: {boss.health}", True, (255, 0, 0))
++                screen.blit(boss_health_text,
++                            (screen_width - boss_health_text.get_width() - 10, 10))  # Размещение в правом верхнем углу
++
++            if boss_three and boss_three.alive():
++                hits = pygame.sprite.spritecollide(boss_three, spears,
++                                                   True)  # True означает, что копья будут уничтожены при столкновении
++                for hit in hits:
++                    boss_three.hit()  # Вызываем метод hit() для третьего босса
++                    # Отрисовка индикатора здоровья босса, если он жив
++                    boss_three_health_text = font.render(f"Boss 3 Health: {boss_three.health}", True, WHITE)
++                    screen.blit(boss_three_health_text, (10, 70))  # Позиция индикатора здоровья босса
++
++            if current_screen == 'Level 2' and boss_two and boss_two.alive():
++                hits = pygame.sprite.spritecollide(boss_two, spears, True)
++                for hit in hits:
++                    boss_two.hit()
++                    if boss_two.health <= 0:
++                        level_complete = True
++                        display_time = pygame.time.get_ticks()
++                        boss_two.kill()
+ 
+-# Press Shift+F10 to execute it or replace it with your code.
+-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
++                boss_two_health_text = font.render(f"Boss 2 Health: {boss_two.health}", True, (255, 255, 255))
++                screen.blit(boss_two_health_text, (10, 60))
+ 
++            if current_screen == 'Level 3' and boss_three and boss_three.alive():
++                hits = pygame.sprite.spritecollide(boss_three, spears, True)
++                for hit in hits:
++                    boss_three.hit()
++                    if boss_two.health <= 0:
++                        level_complete = True
++                        display_time = pygame.time.get_ticks()
++                        boss_three.kill()
+ 
+-def print_hi(name):
+-    # Use a breakpoint in the code line below to debug your script.
+-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
++                boss_three_health_text = font.render(f"Boss 3 Health: {boss_three.health}", True, (255, 255, 255))
++                screen.blit(boss_three_health_text, (10, 60))
+ 
++            fireballs.update()
+ 
+-# Press the green button in the gutter to run the script.
+-if __name__ == '__main__':
+-    print_hi('PyCharm')
++            # Обновляем спрайты, исключая игрока, если в группе all_sprites есть и другие спрайты
++            for sprite in all_sprites:
++                if sprite != player:
++                    sprite.update()
+ 
+-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
++            spears.update()
++
++            all_sprites.draw(screen)
++            spears.draw(screen)
++            fireballs.draw(screen)
++
++            # Проверка столкновений между игроком и шариками
++            hits = pygame.sprite.spritecollide(player, fireballs, True)
++            for hit in hits:
++                player.take_damage()
++                if player.health <= 0:
++                    # Если жизни игрока закончились, показываем сообщение "You lose"
++                    screen.fill((0, 0, 0))  # Очищаем экран
++                    font = pygame.font.Font(None, 74)
++                    lose_text = font.render('You Lost', True, (255, 0, 0))
++                    text_rect = lose_text.get_rect(center=(screen_width / 2, screen_height / 2))
++                    screen.blit(lose_text, text_rect)
++                    pygame.display.flip()
++                    pygame.time.wait(2000)  # Даем время увидеть сообщение
++                    current_screen = "menu"
++                    in_game = False
++                    break  # Выход из цикла, чтобы не обрабатывать другие столкновения после смерти
++
++            # Проверка столкновений
++            if boss is not None and boss.alive():  # Добавлена проверка на существование объекта boss
++                hits = pygame.sprite.spritecollide(boss, spears, True)
++                for hit in hits:
++                    boss.hit()
++                    if boss.health <= 0:  # Проверяем здоровье босса после попадания
++                        level_complete = True
++                        display_time = pygame.time.get_ticks()
++                        boss.kill()  # Удаляем босса из всех групп спрайтов
++                        level_1_completed = True  # Указываем, что первый уровень завершен
++
++            # Показываем сообщение "Level Complete", если уровень завершен
++            if level_complete:
++                if pygame.time.get_ticks() - display_time < 3000:  # Отображаем сообщение в течение 5 секунд
++                    font = pygame.font.Font(None, 74)
++                    text = font.render('Level Complete', True, WHITE)
++                    text_rect = text.get_rect(center=(screen_width / 2, screen_height / 2))
++                    screen.blit(text, text_rect)
++                else:
++                    # Возвращение в главное меню после 5 секунд
++                    current_screen = "menu"
++                    in_game = False
++                    level_complete = False  # Сброс флага завершения уровня для возможного повторного прохождения
++
++        pygame.display.flip()
++
++    pygame.quit()
++    sys.exit()
++
++
++if __name__ == "__main__":
++    pygame.font.init()
++    font = pygame.font.Font(None, 36)
++    main(font)
