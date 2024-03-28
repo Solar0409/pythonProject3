@@ -137,6 +137,7 @@ def load_level(level):
     in_game = True
 
     # Сброс предыдущего состояния уровня
+    #
     if boss:
         boss.kill()
         boss = None
